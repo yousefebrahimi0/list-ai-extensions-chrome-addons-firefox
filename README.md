@@ -3,10 +3,10 @@
     <img src="https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox/blob/main/images/Leonardo-generated-photo.jpg" height="200" alt="header">
 </h1>
 
-
 <sub><sup>Generated header image by: [leonardo.ai][leonardo.ai]: 3 icon of AI, Google Chrome and Firefox together like a complete puzzle</sup></sub>
 
 <br>
+<h3>More than 60 AI Tools (updated 18 Feb. 2023)</h3>
 A collection of software tools that utilize artificial intelligence (AI) technology to enhance the functionality and capabilities of two popular web browsers, Google Chrome and Mozilla Firefox. These AI-powered extensions and add-ons are designed to help users perform various tasks more efficiently and effectively, such as language translation, content filtering, search optimization, and more. The list aims to provide users with a selection of the most useful and innovative AI tools available for these browsers, allowing them to improve their browsing experience and increase their productivity. Before installing any of them pay attention to their permissions.
 
 <div align="center">
