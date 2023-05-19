@@ -165,7 +165,7 @@ Links
 [ChassistantGPT]:https://chrome.google.com/webstore/detail/chassistantgpt/kepjfakbnekbifkjnfhmoilbbnncnfjc
 [Ellie]:https://addons.mozilla.org/en-US/firefox/addon/ellie-your-ai-email-assistant/
 [Semantic Scholar]:https://addons.mozilla.org/en-US/firefox/addon/semantic-scholar/
-[Superpower ChatGPT]:https://addons.mozilla.org/en-US/firefox/addon/semantic-scholar/
+[Superpower ChatGPT]:https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/
 [ChatGPThing2]:https://addons.mozilla.org/en-US/firefox/addon/chatgpthing/
 [ChatGPThing]:https://chrome.google.com/webstore/detail/chatgpthing/amiibkaljanlkpjljhlkgjdfemgkklbo?hl=en&authuser=0&utm_source=landing
 [YouChat AI for Google2]:https://addons.mozilla.org/en-US/firefox/addon/youchat-ai-for-google/
