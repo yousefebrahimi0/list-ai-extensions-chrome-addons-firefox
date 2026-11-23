@@ -16,7 +16,7 @@ A collection of software tools that utilize artificial intelligence (AI) technol
 
 ## Browser extensions
 
-**Audit date:** 23 November 2026. A Chrome/Firefox link points to a browser store; it does not guarantee the extension was functionally tested or security-audited. Version labels appear **only where an official store version could be confirmed**. Missing version numbers mean *not verified*, not version 1. Browser-store availability and permissions can change; check the extension's developer, last update, required site access, and privacy policy before installing. In particular, extensions that access **all websites** or email content deserve extra scrutiny.
+**Audit date:** 23 November 2026. A Chrome/Firefox link points to a browser store; it does not guarantee the extension was functionally tested or security-audited. Version labels are shown only where the listed version could be corroborated against an accessible official store snapshot; some snapshots predate this audit and versions may have changed. Missing version numbers mean *not verified*, not version 1. Browser-store availability and permissions can change; check the extension's developer, last update, required site access, and privacy policy before installing. In particular, extensions that access **all websites** or email content deserve extra scrutiny.
 
 See [the audit notes](AUDIT_2026-11-23.md) for removed entries, fixed listings, and outstanding verification limits.
 
@@ -24,22 +24,22 @@ See [the audit notes](AUDIT_2026-11-23.md) for removed entries, fixed listings, 
 
 | **Name**                                           | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                              | **![c] Download Chrome**                                     | **![f] Download Firefox**                                                         |
 |----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| YouTube Summary with ChatGPT & Claude (Glasp) | Summarize YouTube videos and articles, extract timestamped transcripts, and chat about their content. Published by Glasp. | [Chrome v2.4.2][YouTube Summary with ChatGPT] | [Firefox v2.4.2][Youtube ChatGPT summarization] |
-| editGPT | Proofread and revise writing in ChatGPT, track changes, and accept or reject suggested edits. | [Chrome v1.0.32][editGPT] | [Firefox v1.0.31][editGPT2] |
-| You.com: AI search engine | Make You.com the browser's default search engine and access its AI-powered search and chat; this is primarily a search-provider extension. | [Chrome v2.0.0][You.com] | [Firefox v1.4][You.com2] |
-| Qalam | Arabic-language writing, spelling, and grammar assistance. Firefox release is old; review site-access permissions. | [Chrome][Qalam] | [Firefox v0.14.41][Qalam2] |
-| Scraper.AI - An AI powered web scraper | Extract structured information from websites; its older Firefox release requests broad site access. | [Chrome][Scraper.AI] | [Firefox v1.2.1][Scraper.AI2] |
-| Typli.ai: AI Writing Assistant | AI-assisted writing and rewriting. Its older Firefox release requests access across all websites. | [Chrome][Typli.Ai] | [Firefox v0.2.6][Typli.Ai2] |
+| YouTube Summary with ChatGPT & Claude (Glasp) | Summarize YouTube videos and articles, extract timestamped transcripts, and chat about their content. Published by Glasp. | [Chrome][YouTube Summary with ChatGPT] | [Firefox v2.3.1][Youtube ChatGPT summarization] |
+| editGPT | Proofread and revise writing in ChatGPT, track changes, and accept or reject suggested edits. | [Chrome][editGPT] | [Firefox v1.0.31][editGPT2] |
+| You.com: AI search engine | Make You.com the browser's default search engine and access its AI-powered search and chat; this is primarily a search-provider extension. | [Chrome][You.com] | [Firefox v1.4][You.com2] |
+| Qalam | Arabic-language writing, spelling, and grammar assistance. Firefox release is old; review site-access permissions. | [Chrome][Qalam] | [Firefox][Qalam2] |
+| Scraper.AI - An AI powered web scraper | Extract structured information from websites; its older Firefox release requests broad site access. | [Chrome][Scraper.AI] | [Firefox][Scraper.AI2] |
+| Typli.ai: AI Writing Assistant | AI-assisted writing and rewriting. Its older Firefox release requests access across all websites. | [Chrome][Typli.Ai] | [Firefox][Typli.Ai2] |
 | Merlin: AI Assistant | Access an AI assistant for summarizing pages, drafting text, and chatting with supported AI models while browsing. | [Chrome][Merlin] | — |
-| ChatGPThing | Ask an AI about the current webpage. Firefox build appears outdated and requests access across all websites. | [Chrome][ChatGPThing] | [Firefox v0.1.2][ChatGPThing2] |
-| YouChat AI for Google Search | Show You.com AI search responses alongside conventional search results. Firefox release appears outdated. | [Chrome][YouChat AI for Google] | [Firefox v1.0.1][YouChat AI for Google2] |
-| UI.Vision RPA: Browser Automation | Automate browser tasks with visual scripting, recording, OCR, and macros. Powerful page automation requires careful permission review. | [Chrome][UI.Vision RPA] | [Firefox v10.0.307][UI.Vision RPA2] |
-| NopeCHA: AI CAPTCHA Solver | AI-powered CAPTCHA assistance for supported challenges. Verify website rules and broad browser permissions before using. | [Chrome v0.6.1][NopeCHA] | [Firefox v0.6.1][NopeCHA2] |
-| CatalyzeX: AI Code Finder for Research Papers | Find implementations, related code, and explanations for machine-learning research papers while browsing academic sites. | [Chrome][CatalyzeX] | [Firefox v0.0.0.122][CatalyzeX2] |
-| chessvision.ai | Analyze chess positions from any website, book, and video in browser | [Chrome][chessvision.ai] | [Firefox v3.8.2][chessvision.ai2] |
-| WebChatGPT: Web Search & Prompt Library | Augment AI prompts with web results and use reusable prompt templates. | [Chrome][WebChatGPT] | [Firefox v4.1.60][WebChatGPT2] |
+| ChatGPThing | Ask an AI about the current webpage. Firefox build appears outdated and requests access across all websites. | [Chrome][ChatGPThing] | [Firefox][ChatGPThing2] |
+| YouChat AI for Google Search | Show You.com AI search responses alongside conventional search results. Firefox release appears outdated. | [Chrome][YouChat AI for Google] | [Firefox][YouChat AI for Google2] |
+| UI.Vision RPA: Browser Automation | Automate browser tasks with visual scripting, recording, OCR, and macros. Powerful page automation requires careful permission review. | [Chrome][UI.Vision RPA] | [Firefox][UI.Vision RPA2] |
+| NopeCHA: AI CAPTCHA Solver | AI-powered CAPTCHA assistance for supported challenges. Verify website rules and broad browser permissions before using. | [Chrome][NopeCHA] | [Firefox][NopeCHA2] |
+| CatalyzeX: AI Code Finder for Research Papers | Find implementations, related code, and explanations for machine-learning research papers while browsing academic sites. | [Chrome][CatalyzeX] | [Firefox][CatalyzeX2] |
+| chessvision.ai | Analyze chess positions from any website, book, and video in browser | [Chrome][chessvision.ai] | [Firefox][chessvision.ai2] |
+| WebChatGPT: Web Search & Prompt Library | Augment AI prompts with web results and use reusable prompt templates. | [Chrome][WebChatGPT] | [Firefox][WebChatGPT2] |
 | Eightify: AI YouTube Summarizer | Produce timestamped summaries and key takeaways from YouTube videos. | [Chrome][Eightify] | — |
-| HARPA AI: Browser Automation & AI Assistant | AI browser assistant for summarizing, writing, monitoring pages, extracting data, and automation. Broad access to page content warrants review. | [Chrome v18.0.1][HARPA] | — |
+| HARPA AI: Browser Automation & AI Assistant | AI browser assistant for summarizing, writing, monitoring pages, extracting data, and automation. Broad access to page content warrants review. | [Chrome][HARPA] | — |
 | AnyPicker - A.I. powered No Code Web Scraper | AnyPicker is a free web data scraper. Powered by A.I. pattern recognition engine, You can scrape any website with just a few clicks. | [Chrome][AnyPicker] | — |
 | HyperWrite - AI Writing Companion | AI drafting and autocomplete for web text fields, email, and documents. | [Chrome][HyperWrite] | — |
 | Otter.ai: Meeting Transcription & Notes | Transcribe and summarize online meetings and browser audio; handle recordings and transcript data carefully. | [Chrome][Otter.ai] | — |
@@ -61,7 +61,7 @@ See [the audit notes](AUDIT_2026-11-23.md) for removed entries, fixed listings, 
 | WritingMate: #1 ChatGPT/GPT-3 assistant | AI-powered communications & writing companion accessible on any website with just one click! | [Chrome][WritingMate] | — |
 | Wordtune Read: AI-powered Summary Tool | AI summarizer making every long story - short. Summarize anything on the web so you can understand more, faster - PDF files, online articles, and even videos | [Chrome][Wordtune Read] | — |
 | TextCortex - AI Powered Writing Assistant | Your rewriting, paraphrasing and AI writing tool to write 10x faster and get out of the writer`s block instantly. | [Chrome][TextCortex] | — |
-| Ghostwrite: ChatGPT Email Assistant | GhostWrite is an AI that writes your emails utilizing ChatGPT & other AI technologies. Reply, compose, and write emails instantly from just a few words. GhostWrite AI uses artificial intelligence to automate the writing process, so you can spend more time on the things that matter. | [Chrome v0.0.0.18][Ghostwrite] | — |
+| Ghostwrite: ChatGPT Email Assistant | GhostWrite is an AI that writes your emails utilizing ChatGPT & other AI technologies. Reply, compose, and write emails instantly from just a few words. GhostWrite AI uses artificial intelligence to automate the writing process, so you can spend more time on the things that matter. | [Chrome][Ghostwrite] | — |
 | superReply AI Email Response Generator | Let superReply handle the hard work for you with its AI-powered email response tool. | [Chrome][superReply] | — |
 | Web Highlight | This extension highlights the most important sentences on websites, powered by AI. | [Chrome][Web Highlight] | — |
 | ChatGPT+ | Useful and customizable prompts for ChatGPT: Are you tired of feeling disorganized and struggling to keep track of important information? Do you spend too much time switching between apps and web pages? This ALL-IN-ONE tool lets you customize and save your prompts, to fit your specific needs for maximum efficiency. | [Chrome][ChatGPT+] | — |
@@ -76,17 +76,17 @@ See [the audit notes](AUDIT_2026-11-23.md) for removed entries, fixed listings, 
 | Paraphrasing Tool | Paraphrasing tool is a free chrome extension for rephrasing content online, anytime, anywhere. | [Chrome][Paraphrasing Tool] | — |
 | Bito AI - Use ChatGPT to 10x dev work | Get technical answers in 1 second, explain code, no more hunting on the web | [Chrome][Bito AI] | — |
 | ParagraphAI | Draft and rewrite emails, check grammar, translate text, and summarize webpages with AI. | [Chrome v2.9.2][ParagraphAI] | — |
-| Casper AI | A tool for professionals to simplify their workflow by summarizing articles, creating content and sharing insights with stakeholders | [Chrome v0.4.2][Casper AI] | — |
+| Casper AI | A tool for professionals to simplify their workflow by summarizing articles, creating content and sharing insights with stakeholders | [Chrome][Casper AI] | — |
 | Color Picker by AdCreative.ai | This tool has two part, first part is a color picker that is optimized for both latest Windows and Mac devices. Second part reads the code of the website and brings the most used 12 colors so you can automatically use a color from there. | [Chrome][AdCreative.ai] | — |
-| GPT Formula | AI tool that generates helpful Excel formulas and Google Sheet formulas. | [Chrome v5.0.1][GPT Formula] | — |
+| GPT Formula | AI tool that generates helpful Excel formulas and Google Sheet formulas. | [Chrome][GPT Formula] | — |
 | Crammer: Save time using AI | Provides text analytics to the webpage using artificial intelligence to quickly find what you are looking for and save time | [Chrome][Crammer] | — |
 | ChassistantGPT | ChassistantGPT is a ChatGPT voice assistant. It allows you to send prompts to ChatGPT via voice and hear the response from anywhere! ChassistantGPT supports 60+ languages and dialects. | [Chrome][ChassistantGPT] | — |
-| Ellie: AI Email Assistant | Draft context-aware email replies that match your writing style in Gmail and supported mail services; review mailbox access. | [Chrome v2.6.0][Ellie Chrome] | [Firefox v2.6.1][Ellie] |
-| Semantic Scholar | Search academic research and open papers through Semantic Scholar. Firefox add-on has not had a recent update. | — | [Firefox v0.3.9][Semantic Scholar] |
-| Superpower for ChatGPT | Organize ChatGPT conversations with folders, search, exports, prompt management, and note-taking. | [Chrome v8.5.7][Superpower Chrome] | [Firefox v8.5.7][Superpower ChatGPT] |
-| CruXe - Summarise Text using AI | Summarize articles and online text with AI. Older Firefox release requests access to all websites. | — | [Firefox v1.0.1][CruXe] |
+| Ellie: AI Email Assistant | Draft context-aware email replies that match your writing style in Gmail and supported mail services; review mailbox access. | [Chrome][Ellie Chrome] | [Firefox v2.5.3][Ellie] |
+| Semantic Scholar | Search academic research and open papers through Semantic Scholar. Firefox add-on has not had a recent update. | — | [Firefox][Semantic Scholar] |
+| Superpower for ChatGPT | Organize ChatGPT conversations with folders, search, exports, prompt management, and note-taking. | [Chrome][Superpower Chrome] | [Firefox][Superpower ChatGPT] |
+| CruXe - Summarise Text using AI | Summarize articles and online text with AI. Older Firefox release requests access to all websites. | — | [Firefox][CruXe] |
 | YouChoose.AI | Gain control back on your content recommendations on YouTube. See recommendations provided by content creators. Analyze YouTube's algorithm, and help us expose shadow-banning. | — | [Firefox][YouChoose.AI] |
-| Search Engine 2.0: Display ChatGPT with AI Images | Display AI-generated responses with Google search results and generate your AI-generated images on Google Images. | — | [Firefox v1.1.1][Search Engine 2.0] |
+| Search Engine 2.0: Display ChatGPT with AI Images | Display AI-generated responses with Google search results and generate your AI-generated images on Google Images. | — | [Firefox][Search Engine 2.0] |
 
 
 ## Contributing
