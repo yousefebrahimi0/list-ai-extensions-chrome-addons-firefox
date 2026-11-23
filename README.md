@@ -6,7 +6,7 @@
 <sub><sup>Generated header image by: [leonardo.ai][leonardo.ai]: 3 icon of AI, Google Chrome and Firefox together like a complete puzzle</sup></sub>
 
 <br>
-<h3>63 curated AI browser extensions — store-link review: 23 Nov 2026</h3>
+<h3>64 curated AI browser extensions — updated 23 Nov 2026</h3>
 A collection of software tools that utilize artificial intelligence (AI) technology to enhance the functionality and capabilities of two popular web browsers, Google Chrome and Mozilla Firefox. These AI-powered extensions and add-ons are designed to help users perform various tasks more efficiently and effectively, such as language translation, content filtering, search optimization, and more. The list aims to provide users with a selection of the most useful and innovative AI tools available for these browsers, allowing them to improve their browsing experience and increase their productivity. Before installing any of them pay attention to their permissions.
 
 <div align="center">
@@ -18,20 +18,15 @@ A collection of software tools that utilize artificial intelligence (AI) technol
 
 **Audit date:** 23 November 2026. A Chrome/Firefox link points to a browser store; it does not guarantee the extension was functionally tested or security-audited. Version labels are shown only where the listed version could be corroborated against an accessible official store snapshot; some snapshots predate this audit and versions may have changed. Missing version numbers mean *not verified*, not version 1. Browser-store availability and permissions can change; check the extension's developer, last update, required site access, and privacy policy before installing. In particular, extensions that access **all websites** or email content deserve extra scrutiny.
 
-See [the audit notes](AUDIT_2026-11-23.md) for removed entries, fixed listings, and outstanding verification limits.
+See [the audit notes](AUDIT_2026-11-23.md) for removal decisions, newly approved tools, and outstanding security-verification limits. The catalog includes extensions with varying privacy risk; publication is not a safety endorsement.
 
 ## Download
 
 | **Name**                                           | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                              | **![c] Download Chrome**                                     | **![f] Download Firefox**                                                         |
 |----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| YouTube Summary with ChatGPT & Claude (Glasp) | Summarize YouTube videos and articles, extract timestamped transcripts, and chat about their content. Published by Glasp. | [Chrome][YouTube Summary with ChatGPT] | [Firefox v2.3.1][Youtube ChatGPT summarization] |
 | editGPT | Proofread and revise writing in ChatGPT, track changes, and accept or reject suggested edits. | [Chrome][editGPT] | [Firefox v1.0.31][editGPT2] |
 | You.com: AI search engine | Make You.com the browser's default search engine and access its AI-powered search and chat; this is primarily a search-provider extension. | [Chrome][You.com] | [Firefox v1.4][You.com2] |
-| Qalam | Arabic-language writing, spelling, and grammar assistance. Firefox release is old; review site-access permissions. | [Chrome][Qalam] | [Firefox][Qalam2] |
-| Scraper.AI - An AI powered web scraper | Extract structured information from websites; its older Firefox release requests broad site access. | [Chrome][Scraper.AI] | [Firefox][Scraper.AI2] |
-| Typli.ai: AI Writing Assistant | AI-assisted writing and rewriting. Its older Firefox release requests access across all websites. | [Chrome][Typli.Ai] | [Firefox][Typli.Ai2] |
 | Merlin: AI Assistant | Access an AI assistant for summarizing pages, drafting text, and chatting with supported AI models while browsing. | [Chrome][Merlin] | — |
-| ChatGPThing | Ask an AI about the current webpage. Firefox build appears outdated and requests access across all websites. | [Chrome][ChatGPThing] | [Firefox][ChatGPThing2] |
 | YouChat AI for Google Search | Show You.com AI search responses alongside conventional search results. Firefox release appears outdated. | [Chrome][YouChat AI for Google] | [Firefox][YouChat AI for Google2] |
 | UI.Vision RPA: Browser Automation | Automate browser tasks with visual scripting, recording, OCR, and macros. Powerful page automation requires careful permission review. | [Chrome][UI.Vision RPA] | [Firefox][UI.Vision RPA2] |
 | NopeCHA: AI CAPTCHA Solver | AI-powered CAPTCHA assistance for supported challenges. Verify website rules and broad browser permissions before using. | [Chrome][NopeCHA] | [Firefox][NopeCHA2] |
@@ -57,7 +52,6 @@ See [the audit notes](AUDIT_2026-11-23.md) for removed entries, fixed listings, 
 | CopyAI | CopyAI is the world's most advanced AI copywriter that helps brands create highly engaging ad copy. You’ll have access to deep… | [Chrome][CopyAI] | — |
 | Copysmith for eCommerce | Copysmith is the AI copywriting tool to help online sellers, agencies, copywriters, and marketing teams of all sizes create more content in less time.  With the click of a button your team can write engaging product descriptions, digital ads, headlines, emails, social media copy, and more! | [Chrome][Copysmith for eCommerce] | — |
 | Smart Copy - Copy in Minutes, Not Days | Say goodbye to copywriting woes and hello to Smart Copy, the only AI writing tool that can create, remix, and expand copy in a snap. | [Chrome][Smart Copy] | — |
-| Originality.ai: AI Content Detection | Analyze potential AI-generated writing and review writing-process evidence; results are probabilistic, not definitive proof. | [Chrome][Originality.AI] | — |
 | WritingMate: #1 ChatGPT/GPT-3 assistant | AI-powered communications & writing companion accessible on any website with just one click! | [Chrome][WritingMate] | — |
 | Wordtune Read: AI-powered Summary Tool | AI summarizer making every long story - short. Summarize anything on the web so you can understand more, faster - PDF files, online articles, and even videos | [Chrome][Wordtune Read] | — |
 | TextCortex - AI Powered Writing Assistant | Your rewriting, paraphrasing and AI writing tool to write 10x faster and get out of the writer`s block instantly. | [Chrome][TextCortex] | — |
@@ -81,12 +75,19 @@ See [the audit notes](AUDIT_2026-11-23.md) for removed entries, fixed listings, 
 | GPT Formula | AI tool that generates helpful Excel formulas and Google Sheet formulas. | [Chrome][GPT Formula] | — |
 | Crammer: Save time using AI | Provides text analytics to the webpage using artificial intelligence to quickly find what you are looking for and save time | [Chrome][Crammer] | — |
 | ChassistantGPT | ChassistantGPT is a ChatGPT voice assistant. It allows you to send prompts to ChatGPT via voice and hear the response from anywhere! ChassistantGPT supports 60+ languages and dialects. | [Chrome][ChassistantGPT] | — |
-| Ellie: AI Email Assistant | Draft context-aware email replies that match your writing style in Gmail and supported mail services; review mailbox access. | [Chrome][Ellie Chrome] | [Firefox v2.5.3][Ellie] |
 | Semantic Scholar | Search academic research and open papers through Semantic Scholar. Firefox add-on has not had a recent update. | — | [Firefox][Semantic Scholar] |
 | Superpower for ChatGPT | Organize ChatGPT conversations with folders, search, exports, prompt management, and note-taking. | [Chrome][Superpower Chrome] | [Firefox][Superpower ChatGPT] |
 | CruXe - Summarise Text using AI | Summarize articles and online text with AI. Older Firefox release requests access to all websites. | — | [Firefox][CruXe] |
 | YouChoose.AI | Gain control back on your content recommendations on YouTube. See recommendations provided by content creators. Analyze YouTube's algorithm, and help us expose shadow-banning. | — | [Firefox][YouChoose.AI] |
 | Search Engine 2.0: Display ChatGPT with AI Images | Display AI-generated responses with Google search results and generate your AI-generated images on Google Images. | — | [Firefox][Search Engine 2.0] |
+| Page Assist | Open-source AI assistant for chatting with web pages and documents using local models such as Ollama. **Privacy:** browser-wide page access may be requested. | [Chrome][new-pageassist-chrome] | [Firefox][new-pageassist-firefox] |
+| ChatGPTBox | Open-source browser AI sidebar with page summaries, selected-text actions and multi-provider chat. **Privacy:** broad page and tab access; review permissions. | [Chrome][new-chatgptbox-chrome] | [Firefox][new-chatgptbox-firefox] |
+| DeepL | AI-assisted translation, writing improvements and webpage translation. **Privacy:** avoid submitting sensitive text without checking data-handling terms. | — | [Firefox][new-deepl-firefox] |
+| LanguageTool | Multilingual grammar, spelling, tone and style suggestions. **Privacy:** text may be processed remotely and the extension requests broad website access. | [Chrome][new-languagetool-chrome] | [Firefox][new-languagetool-firefox] |
+| Tactiq | AI meeting transcription, notes and summaries for supported video calls. **Privacy:** meeting content can be confidential; check consent and retention. | [Chrome][new-tactiq-chrome] | — |
+| SciSpace | AI research-paper explanations, summaries and paper Q&A. **Privacy:** verify research-document handling and requested browser permissions. | [Chrome][new-scispace-chrome] | — |
+| LAITA | Local AI rewriting and proofreading using Ollama. **Privacy:** local processing can reduce external sharing, but publisher and permissions still need review. | [Chrome][new-laita-chrome] | [Firefox][new-laita-firefox] |
+| NotebookLM Web Importer (third-party) | Import webpages and videos into NotebookLM. **HIGHER PRIVACY RISK:** unofficial Google-related extension; check publisher and access before installing. | [Chrome][new-notebooklmwebimporterthirdparty-chrome] | — |
 
 
 ## Contributing
@@ -206,3 +207,16 @@ Twitter Badge
 
 [Superpower Chrome]:https://chromewebstore.google.com/detail/superpower-for-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc
 [Ellie Chrome]:https://chromewebstore.google.com/detail/ellie-your-professional-a/mhcnlcilgicfodlpjcacgglchmpoojcp
+
+[new-pageassist-chrome]:https://chromewebstore.google.com/detail/page-assist-a-web-ui-for/jfgfiigpkhlkbnfnbobbkinehhfdhndo
+[new-pageassist-firefox]:https://addons.mozilla.org/en-US/firefox/addon/page-assist/
+[new-chatgptbox-chrome]:https://chromewebstore.google.com/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo
+[new-chatgptbox-firefox]:https://addons.mozilla.org/en-US/firefox/addon/chatgptbox/
+[new-deepl-firefox]:https://addons.mozilla.org/en-US/firefox/addon/deepl-translate/
+[new-languagetool-chrome]:https://chromewebstore.google.com/detail/ai-grammar-checker-paraph/oldceeleldhonbafppcapldpdifcinji
+[new-languagetool-firefox]:https://addons.mozilla.org/en-US/firefox/addon/languagetool/
+[new-tactiq-chrome]:https://chromewebstore.google.com/detail/tactiq-ai-note-taker-for/fggkaccpbmombhnjkjokndojfgagejfb
+[new-scispace-chrome]:https://chromewebstore.google.com/detail/scispace-do-hours-of-rese/cipccbpjpemcnijhjcdjmkjhmhniiick
+[new-laita-chrome]:https://chromewebstore.google.com/detail/laita-local-ai-text-assis/kkonkblgjafnampabmfflabkdkggpnjn
+[new-laita-firefox]:https://addons.mozilla.org/en-US/firefox/addon/laita/
+[new-notebooklmwebimporterthirdparty-chrome]:https://chromewebstore.google.com/detail/notebooklm-web-importer/ijdefdijdmghafocfmmdojfghnpelnfn
